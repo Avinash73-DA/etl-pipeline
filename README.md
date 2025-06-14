@@ -15,33 +15,31 @@ The pipeline follows a clean, modular structure with three distinct phases:
 ---
 
 ## 📁 Project Structure
-
-  ├── extract/
-  │ ├── extract_zoho.py
-  │ ├── extract_hubspot.py
-  │ └── extract_custify.py
-  │
-  ├── transform/
-  │ ├── transform_zoho.py
-  │ ├── transform_hubspot.py
-  │ └── transform_custify.py
-  │
-  ├── load/
-  │ ├── load_zoho.py
-  │ ├── load_hubspot.py
-  │ └── load_custify.py
-  │
-  ├── utils/
-  │ ├── spark_utils.py
-  │ ├── api_helpers.py
-  │ └── logging.py
-  │
-  ├── config/
-  │ └── config.yaml
-  │
-  ├── main.py
-  └── requirements.txt
-
+├── extract/
+│   ├── extract_zoho.py
+│   ├── extract_hubspot.py
+│   └── extract_custify.py
+│
+├── transform/
+│   ├── transform_zoho.py
+│   ├── transform_hubspot.py
+│   └── transform_custify.py
+│
+├── load/
+│   ├── load_zoho.py
+│   ├── load_hubspot.py
+│   └── load_custify.py
+│
+├── utils/
+│   ├── spark_utils.py
+│   ├── api_helpers.py
+│   └── logging.py
+│
+├── config/
+│   └── config.yaml
+│
+├── main.py
+└── requirements.txt
 
 ---
 
