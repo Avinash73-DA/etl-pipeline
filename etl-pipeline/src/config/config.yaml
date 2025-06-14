@@ -1,0 +1,14 @@
+zoho:
+  base_url: "https://www.zohoapis.com/billing/v1/creditnotes"
+  table: "finance_revops.finance_reports.zoho_creditnotes"
+  client_id: "your-client-id"
+  client_secret: "your-client-secret"
+  scope: "ZohoSubscriptions.creditnotes.READ"
+
+hubspot:
+  access_token: "your-hubspot-token"
+  table: "hubspot_deals"
+
+custify:
+  api_token: "your-custify-token"
+  table: "finance_revops.sandbox.custify_companies"
