@@ -104,7 +104,7 @@ pip install -r requirements.txt
 
 ---
 
-2️⃣ Configure config/config.yaml
+### 2️⃣ Configure config/config.yaml
 
 zoho:
   base_url: "https://www.zohoapis.com/billing/v1/creditnotes"
@@ -117,35 +117,15 @@ hubspot:
 custify:
   api_token: "your-custify-token"
   table: "finance_revops.sandbox.custify_companies"
-  ✅ Optionally, use .env files for storing secrets and load them using python-dotenv.
 
 ---
 
-  3️⃣ Run the Pipeline
-  python main.py
-  
----
 🔐 Secrets Management
 
-✅ Never hardcode API tokens or secrets.
+🔒 Never hardcode API tokens or secrets
 
-✅ Use .env locally
 
 ✅ Use Databricks Secrets in production
 
-🚧 Future Enhancements
-
-⏱ Add Airflow orchestration
-
-✅ Unit testing and validation
-
-🔄 CI/CD via GitHub Actions
-
-🧩 Extend to more APIs (Jira, Salesforce)
-
-👨‍💻 Author
-Avinash M – Data Engineer & Business Analyst
-📧 Email: avinashsolai@gmail.com
-🔗 LinkedIn: linkedin.com/in/avinash-m-va73
-
+➕ Extend to more APIs (e.g., Jira, Salesforce)
 
