@@ -134,5 +134,5 @@ custify:
 
 **Mentor: [Ashray Kiran]** – Senior Associate Revops  
 📧 Email: [ashrayking94@gmail.com]  
-🔗 LinkedIn: [www.linkedin.com/inashray-kiran-927932b4]
+🔗 LinkedIn: [www.linkedin.com/in/ashray-kiran-927932b4]
 
