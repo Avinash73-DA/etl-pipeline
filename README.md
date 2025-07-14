@@ -3,6 +3,8 @@
 This repository documents an end-to-end ETL (Extract, Transform, Load) pipeline for integrating and processing data from **Zoho**, **HubSpot**, and **Custify** using **PySpark**, **Delta Lake**, and **REST APIs**.
 
 ---
+<img width="1916" height="942" alt="image" src="https://github.com/user-attachments/assets/e0a7c1ea-4c05-4d3a-9a76-bc1d4d072b1f" />
+
 
 ## 📌 Project Overview
 
